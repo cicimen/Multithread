@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Multithread", "Multithread\01Multithread.csproj", "{5BBC8249-48CD-4AB0-93B5-A0CA7AC97730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Multithread", "02Multithread\02Multithread.csproj", "{322E305F-46F2-4435-8A8A-0CD123EF29F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Multithread", "03Multithread\03Multithread.csproj", "{DDB0E4EF-8681-4DEF-AD7E-90D0689DC118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Multithread", "04Multithread\04Multithread.csproj", "{681B5F39-EF92-46D0-9B18-2FF10D5D14DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Multithread", "05Multithread\05Multithread.csproj", "{16469D39-8128-4684-B571-70DE1883DC62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Multithread", "06Multithread\06Multithread.csproj", "{4AA6693B-30BC-412F-AC4B-8E4521B084B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07Multithread", "07Multithread\07Multithread.csproj", "{D8E411ED-A802-48C7-8C73-3DFA5799A6E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BBC8249-48CD-4AB0-93B5-A0CA7AC97730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBC8249-48CD-4AB0-93B5-A0CA7AC97730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBC8249-48CD-4AB0-93B5-A0CA7AC97730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBC8249-48CD-4AB0-93B5-A0CA7AC97730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322E305F-46F2-4435-8A8A-0CD123EF29F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322E305F-46F2-4435-8A8A-0CD123EF29F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322E305F-46F2-4435-8A8A-0CD123EF29F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322E305F-46F2-4435-8A8A-0CD123EF29F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB0E4EF-8681-4DEF-AD7E-90D0689DC118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB0E4EF-8681-4DEF-AD7E-90D0689DC118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB0E4EF-8681-4DEF-AD7E-90D0689DC118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB0E4EF-8681-4DEF-AD7E-90D0689DC118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681B5F39-EF92-46D0-9B18-2FF10D5D14DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681B5F39-EF92-46D0-9B18-2FF10D5D14DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681B5F39-EF92-46D0-9B18-2FF10D5D14DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681B5F39-EF92-46D0-9B18-2FF10D5D14DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16469D39-8128-4684-B571-70DE1883DC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16469D39-8128-4684-B571-70DE1883DC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16469D39-8128-4684-B571-70DE1883DC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16469D39-8128-4684-B571-70DE1883DC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA6693B-30BC-412F-AC4B-8E4521B084B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA6693B-30BC-412F-AC4B-8E4521B084B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA6693B-30BC-412F-AC4B-8E4521B084B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA6693B-30BC-412F-AC4B-8E4521B084B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E411ED-A802-48C7-8C73-3DFA5799A6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E411ED-A802-48C7-8C73-3DFA5799A6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E411ED-A802-48C7-8C73-3DFA5799A6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E411ED-A802-48C7-8C73-3DFA5799A6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
